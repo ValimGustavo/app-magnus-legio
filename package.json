@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:ValimGustavo/app-magnus-legio.git",
   "author": "ValimGustavo <gustavo.souza.valim@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "commit":"git add . && git commit && git push"
+  },
+  "dependencies": {
+    "@nestjs/cli": "^7.1.2"
+  }
 }
