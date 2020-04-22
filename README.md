@@ -1,6 +1,9 @@
-#Magnus Legio Aplicativo
+# Magnus Legio Aplicativo
 
-##Funcionalidades
- <ul>
-  <li>Ver Treinos</li>
- </ul>
+## Funcionalidades
+- Tabela de Treinos
+- Gerenciar membros
+- Gerenciar Admistração
+- Forum
+- Midias
+- Informações 
