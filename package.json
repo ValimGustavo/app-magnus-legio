@@ -6,9 +6,15 @@
   "author": "ValimGustavo <gustavo.souza.valim@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "commit":"git add . && git commit && git push"
+    "commit": "git add . && git commit && git push",
+    "start": "node index.html",
+    "start:dev": "nodemon index.html"
   },
   "dependencies": {
-    "@nestjs/cli": "^7.1.2"
+    "@angular/cli": "^9.1.2",
+    "@nestjs/cli": "^7.1.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "typescript": "^3.8.3"
   }
 }
