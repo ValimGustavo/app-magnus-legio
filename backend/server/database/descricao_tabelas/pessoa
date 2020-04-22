@@ -1,0 +1,19 @@
+nome 
+    nome
+    sobrenome
+    nome_meio
+
+data_nascimento
+
+endereco
+    rua
+    bairro
+    numero
+    cidade : cidade
+
+
+contato
+    telefone
+    celular
+    email
+    
