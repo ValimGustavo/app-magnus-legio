@@ -1,0 +1,8 @@
+{
+  "name": "app-magnus-legio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ValimGustavo/app-magnus-legio.git",
+  "author": "ValimGustavo <gustavo.souza.valim@gmail.com>",
+  "license": "MIT"
+}
