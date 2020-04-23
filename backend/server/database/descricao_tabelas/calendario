@@ -1,0 +1,14 @@
+calendario
+    data
+        dia
+        mes
+        ano
+    
+    descricao -> tipo de treino
+
+
+CREATE TABLE calendario (
+    id integer,
+    data date,
+    descricao varchar(150)
+)
